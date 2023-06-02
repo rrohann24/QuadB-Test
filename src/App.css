@@ -1,0 +1,15 @@
+*{
+  background-color: aquamarine;
+}
+.sticky-nav {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background-color: #e6b524;
+  color: white;
+}
+
+.bookingForm{
+    align-self: center;
+    text-align: center;
+}
